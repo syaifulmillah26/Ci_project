@@ -1,0 +1,11 @@
+/* styling profile picture */
+
+.profile-picture img:hover {
+    opacity: 0.7;
+}
+
+.profile-picture img {
+    opacity: 1;
+
+}
+/* end styling profile picture */
